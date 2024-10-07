@@ -3,7 +3,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="![P1 HD](https://github.com/user-attachments/assets/e1e0f1a1-5d56-4079-aab3-3a61dddd7598)
+"  />
 
 ###
 
