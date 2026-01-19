@@ -37,10 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jags08/jags08/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/jags08/count.svg?"  />
 </div>
